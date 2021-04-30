@@ -1,0 +1,12 @@
+.image {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #F2F1DF;
+}
+
+.under-construction {
+    width: auto;
+    max-height: 100%;
+}
